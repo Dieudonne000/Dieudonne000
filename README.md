@@ -1,12 +1,20 @@
-- 👋 Hi, I’m Muneza Jean Dieudonne
-- 👀 I’m interested in: Coding,3D modeling and Designing
-- 🌱 I’m currently learning: Different languages like Js,Php,C-programming,Python,Html and Css
-- 💞️ I’m looking to collaborate on ... /🫤 Actually I'm still thinking about that 😅/
-- 📫 How to reach me : Via Email("munezadieudonne2021@gmail.com") or Discord("dieudonne_6543").
-- 😄 Pronouns: ... 😑
-- ⚡ Fun fact: ... ID-1072345l0567O73982 -- You didn't even bother to read the whole number Because you didn't even notice the letter in there 😂.
+# 👋 Yo, I’m Muneza Jean Dieudonne
 
-<!---
-Dieudonne000/Dieudonne000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m that guy who’s always mixing code with creativity—whether it’s building apps or messing around in Blender. Right now I’m deep into learning new stuff (JavaScript, PHP, Python, C, and all the web basics) and always hunting for my next challenge.
+
+**What I’m about:**  
+- 🚗 *Problem-solving* (and lowkey obsessed with cars 😅)  
+- 🎨 *Design & 3D modeling* for fun and sometimes frustration  
+- 💻 *Coding*—web, apps, whatever’s interesting
+
+**Looking to:**  
+Honestly? Still figuring out where to focus my collab energy. But if it’s fun or meaningful, hit me up!
+
+**Let’s connect:**  
+📧 munezadieudonne2021@gmail.com  
+💬 Discord: dieudonne_6543
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieudonne000&layout=compact&theme=catppuccin_mocha)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieudonne000&show_icons=true&theme=catppuccin_mocha&hide=contribs,prs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dieudonne000&repo=portfolioFin&theme=catppuccin_mocha)](https://github.com/Dieudonne000/portfolioFin)
