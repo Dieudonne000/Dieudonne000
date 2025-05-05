@@ -15,6 +15,8 @@ Honestly? Still figuring out where to focus my collab energy. But if it’s fun 
 💬 Discord: dieudonne_6543
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-junior0&label=Profile%20views&color=0e75b6&style=flat" alt="sm-junior0" /> </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieudonne000&layout=compact&theme=catppuccin_mocha)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieudonne000&show_icons=true&theme=catppuccin_mocha&hide=contribs,prs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dieudonne000&repo=portfolioFin&theme=catppuccin_mocha)](https://github.com/Dieudonne000/portfolioFin)
