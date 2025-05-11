@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Dieudonne000&label=Profile%20views&color=0e75b6&style=flat" alt="Dieudonne000" /> </p>
 # 👋 Yo, I’m Muneza Jean Dieudonne
 
-I’m that guy who’s always mixing code with creativity—whether it’s building apps or messing around in Blender. Right now I’m deep into learning new stuff (JavaScript, PHP, Python, C, and all the web basics) and always hunting for my next challenge.
+I’m that guy who’s always mixing code with creativity—whether it’s building apps or messing around in Blender. Right now I’m deep into learning new stuff (JavaScript, PHP, Python, C,Java, and all the web basics) and always hunting for my next challenge.
 
 **What I’m about:**  
 - 🚗 *Problem-solving* (and lowkey obsessed with cars 😅)  
