@@ -21,7 +21,7 @@ Honestly? Still figuring out where to focus my collab energy. But if it’s fun 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dieudonne000&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Dieudonne000)](https://git.io/streak-stats)
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Dieudonne000&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieudonne000&count_private=true&hide=HTML&langs\_count=8&layout=compact&theme=react&border\_radius=10&size\_weight=0.5&count\_weight=0.5" alt="top langs of Dieudonne000" />
